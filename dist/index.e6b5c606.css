@@ -1,0 +1,197 @@
+.signup-container {
+  height: 750px;
+  width: 100%;
+  opacity: .8;
+  background-image: url("Signup.64a483c6.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.staffsignup-container {
+  height: auto;
+  width: 100%;
+  opacity: .8;
+  background-image: url("staffSignup.feb39919.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.supervisorHome_container {
+  height: 800px;
+  width: 100%;
+  opacity: .8;
+  background-image: url("imageSHome.0d2bb197.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.signin-container {
+  height: 600px;
+  opacity: .8;
+  background-image: url("signIn.f7377594.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.StudentHome_container {
+  height: 650px;
+  opacity: .8;
+  background-image: url("std.5cae3574.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Home_container {
+  height: 500px;
+  opacity: .8;
+  background-image: url("Home.3b51b683.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.PanelHome_container {
+  height: 630px;
+  opacity: .8;
+  background-image: url("image_addpanel.7013809a.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.panelmember-container {
+  height: 780px;
+  opacity: .8;
+  background-image: url("panelMem.9c4e80f4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.viewPanelMember-container {
+  height: 600px;
+  opacity: .8;
+  background-image: url("viewpmember.84b521b3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.admin-container {
+  height: 600px;
+  opacity: .8;
+  background-image: url("viewpmember.84b521b3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.updatepanelMembers-container {
+  height: 780px;
+  opacity: .8;
+  background-image: url("panelMem.9c4e80f4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.finalMarks-container {
+  height: 800px;
+  opacity: .8;
+  background-image: url("panelMem.9c4e80f4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.PanelEvaluateTopic-container {
+  height: 630px;
+  opacity: .8;
+  background-image: url("imagepp.14e43489.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.PanelEvaluatePresentation-container {
+  height: 500px;
+  opacity: .8;
+  background-image: url("panel.cc65dead.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.StaffHome_container {
+  height: 550px;
+  opacity: .8;
+  background-image: url("staffhome.5fc171be.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.panel-container {
+  height: 550px;
+  opacity: .8;
+  background-image: url("panelMem.9c4e80f4.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.viewPanel-container {
+  height: 550px;
+  opacity: .8;
+  background-image: url("viewpmember.84b521b3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.viewFinalmarks-container {
+  height: 550px;
+  opacity: .8;
+  background-image: url("viewpmember.84b521b3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.center {
+  height: 70vh;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+.footer-container {
+  color: #fff;
+  background-color: #404040;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=index.e6b5c606.css.map */
